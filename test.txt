@@ -1,3 +1,7 @@
 fkmfkesmfekmfgkewf
+<<<<<<< HEAD
 testdd
 hbhubjhbjh
+=======
+test
+>>>>>>> c7d5f985c038be258fcc09172a930db1c6311a4d
